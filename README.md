@@ -10,7 +10,7 @@
 ### 🌙 About Me
 
 - 🧠 I'm a **16 y.o. student** who lives in the world of code  
-- 🔨 Building: **MchaX-Bot** – a powerful WhatsApp AI  
+- 🔨 Building: **ZenitsuXD** – a powerful WhatsApp AI  
 - 🧩 I love combining **logic + creativity**  
 - 📚 Always learning about APIs, automation, and smart systems  
 - 🍃 I'm calm, but my code speaks volumes.
@@ -50,7 +50,7 @@
 <p align="center">
   <a href="https://youtube.com/@krsna_081"><img src="https://img.shields.io/badge/YouTube-Krsna__081-red?style=for-the-badge&logo=youtube"></a>
   <a href="https://www.tiktok.com/@krsna_081"><img src="https://img.shields.io/badge/TikTok-Krsna__081-black?style=for-the-badge&logo=tiktok"></a>
-  <a href="https://t.me/krsna_08@"><img src="https://img.shields.io/badge/Telegram-%40Krizz__Dev-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="https://t.me/krsna_08@"><img src="https://img.shields.io/badge/Telegram-%40krsna__081-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 
 ---
