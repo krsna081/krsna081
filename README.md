@@ -9,8 +9,7 @@
 
 ### 🌙 About Me
 
-- 🧠 I'm a **16 y.o. student** who lives in the world of code  
-- 🔨 Building: **ZenitsuXD** – a powerful WhatsApp AI  
+- 🧠 I'm a **17 y.o. student** who lives in the world of code  
 - 🧩 I love combining **logic + creativity**  
 - 📚 Always learning about APIs, automation, and smart systems  
 - 🍃 I'm calm, but my code speaks volumes.
@@ -20,7 +19,7 @@
 ### 🧰 Tech & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,neovim" />
 </p>
 
 ---
@@ -48,9 +47,9 @@
 ### 📬 Find Me Here
 
 <p align="center">
-  <a href="https://youtube.com/@krsna_081"><img src="https://img.shields.io/badge/YouTube-Krsna__081-red?style=for-the-badge&logo=youtube"></a>
-  <a href="https://www.tiktok.com/@krsna_081"><img src="https://img.shields.io/badge/TikTok-Krsna__081-black?style=for-the-badge&logo=tiktok"></a>
-  <a href="https://t.me/krsna_08@"><img src="https://img.shields.io/badge/Telegram-%40krsna__081-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="https://youtube.com/@krsna_081"><img src="https://img.shields.io/badge/YouTube-krsna__081-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.tiktok.com/@krsna_081"><img src="https://img.shields.io/badge/TikTok-krsna__081-black?style=for-the-badge&logo=tiktok"></a>
+  <a href="https://t.me/krsna_08@"><img src="https://img.shields.io/badge/Telegram-ssssghjkk-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 
 ---
